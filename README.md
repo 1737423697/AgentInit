@@ -1,7 +1,4 @@
-# AgentDropout
-
-
-
+# AgentInit
 ### About Method
 
 We propose ***AgentInit***, a novel initialization framework for large language model (LLM)-based multi-agent systems. AgentInit strategically orchestrates diverse agent roles and expertise distributions to optimize collaboration effectiveness and efficiency.
