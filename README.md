@@ -8,7 +8,7 @@ We propose ***AgentInit***, a novel initialization framework for large language 
 
 
 
-<img src="image/README/MAIN.png" alt="main" style="zoom: 33%;" />
+<img src="image/MAIN.png" alt="main" style="zoom: 33%;" />
 
 
 
