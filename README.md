@@ -66,6 +66,14 @@ You can also try our pre-generated examples to quickly verify the evaluation res
 python -u example/run_mmlu.py --batch_size 40 --llm_name YOUR QWEN MODEL --agent_names AutoAgent
 ```
 
+### Additional Benchmarks
+For additional benchmarks and task-specific evaluation settings, please refer to the corresponding directories:
 
+```shell
+cd scienceworld
+```
+```shell
+cd writing
+```
 
 Code framework based on [GPTSwarm](https://github.com/metauto-ai/GPTSwarm), [AgentPrune](https://github.com/yanweiyue/AgentPrune), [AgentDropout](https://github.com/wangzx1219/AgentDropout/) and [AutoAgents](https://github.com/Link-AGI/AutoAgents)
