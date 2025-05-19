@@ -1,0 +1,2 @@
+ROLES_LIST = []
+ROLE_PROMPT = {}
