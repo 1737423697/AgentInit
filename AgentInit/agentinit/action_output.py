@@ -1,11 +1,5 @@
 #!/usr/bin/env python
 # coding: utf-8
-"""
-@Time    : 2023/7/11 10:03
-@Author  : chengmaoyu
-@File    : action_output
-@From    : https://github.com/geekan/MetaGPT/blob/main/metagpt/actions/action_output.py
-"""
 
 from typing import Dict, Type
 from pydantic import BaseModel, create_model, root_validator, validator
