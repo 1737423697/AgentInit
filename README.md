@@ -5,7 +5,7 @@ We propose ***AgentInit***, a novel initialization framework for large language 
 
 
 
-<img src="Agentinit/MAIN.jpg" alt="main" style="zoom: 33%;" />
+<img src="AgentInit/MAIN.jpg" alt="main" style="zoom: 33%;" />
 
 
 ## **📣 News**
@@ -91,6 +91,7 @@ url={https://openreview.net/forum?id=j9y7YaxoG0}
 ```
 
 Code framework based on [GPTSwarm](https://github.com/metauto-ai/GPTSwarm), [AgentPrune](https://github.com/yanweiyue/AgentPrune), [AgentDropout](https://github.com/wangzx1219/AgentDropout/) and [AutoAgents](https://github.com/Link-AGI/AutoAgents)
+
 
 
 
