@@ -43,7 +43,7 @@ Prepare data from [Huggingface](https://huggingface.co/). And put them in `datas
 
 
 
-## **🚀Quick Start **
+## 🚀Quick Start 
 
 Run AgentInit on MMLU, the same as other datasets: 
 
@@ -91,4 +91,5 @@ url={https://openreview.net/forum?id=j9y7YaxoG0}
 ```
 
 Code framework based on [GPTSwarm](https://github.com/metauto-ai/GPTSwarm), [AgentPrune](https://github.com/yanweiyue/AgentPrune), [AgentDropout](https://github.com/wangzx1219/AgentDropout/) and [AutoAgents](https://github.com/Link-AGI/AutoAgents)
+
 
